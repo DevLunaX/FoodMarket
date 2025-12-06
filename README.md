@@ -2,19 +2,18 @@
 
 # 🍔 FoodMarket
 
-![Kotlin](https://img. shields.io/badge/Kotlin-100%25-7F52FF? style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img. shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Firebase](https://img. shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-100%25-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 
-**Aplicación móvil Android para explorar y descubrir mercados de comida locales**
+**Aplicación móvil Android para promover el consumo de productos y servicios locales**
 
 [Características](#-características) •
 [Capturas de Pantalla](#-capturas-de-pantalla) •
 [Tecnologías](#-tecnologías) •
 [Instalación](#-instalación) •
 [Estructura](#-estructura-del-proyecto)
-
 </div>
 
 ---
@@ -74,7 +73,7 @@ Además, la aplicación está diseñada siguiendo los principios de Material Des
 
 | Explorar Mercados | Detalle de Establecimiento | Perfil de Usuario |
 |:-----------------:|:--------------------------:|:-----------------:|
-| ![Explorar](docs/screenshots/ExploracionMercados.png) | ![Detalle](docs/screenshots/DetallesMercado.png) | ![Perfil](docs/screenshots/Profile.png) |
+| ![Explorar](docs/screenshots/ExploracionNegocios.png) | ![Detalle](docs/screenshots/DetallesNegocio.png) | ![Perfil](docs/screenshots/perfil.png) |
 
 </div>
 
