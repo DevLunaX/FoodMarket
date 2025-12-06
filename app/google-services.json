@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "678915352908",
+    "project_id": "appcomidalocal",
+    "storage_bucket": "appcomidalocal.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678915352908:android:8ad424ddc3df688a1e47e9",
+        "android_client_info": {
+          "package_name": "mx.edu.utng.foodmarket"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbOwKc8ho-rpZDqDPCjO4BQqKamD5L4So"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678915352908:android:b4f6eed89344b6531e47e9",
+        "android_client_info": {
+          "package_name": "mx.edu.utng.proyectotacho"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbOwKc8ho-rpZDqDPCjO4BQqKamD5L4So"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
