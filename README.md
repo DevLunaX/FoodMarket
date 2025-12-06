@@ -73,7 +73,7 @@ Además, la aplicación está diseñada siguiendo los principios de Material Des
 
 | Explorar Mercados | Detalle de Establecimiento | Perfil de Usuario |
 |:-----------------:|:--------------------------:|:-----------------:|
-| ![Explorar](docs/screenshots/ExploracionNegocios.png) | ![Detalle](docs/screenshots/DetallesNegocio.png) | ![Perfil](docs/screenshots/perfil.png) |
+| ![Explorar](docs/screenshots/ExploracionNegocios.png) | ![Detalle](docs/screenshots/DetallesNegocio.png) | ![Perfil](docs/screenshots/profile.png) |
 
 </div>
 
