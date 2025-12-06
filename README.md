@@ -403,9 +403,9 @@ fun MarketCard(
 
 **DevLunaX**
 
-[![GitHub](https://img. shields.io/badge/GitHub-DevLunaX-181717? style=for-the-badge&logo=github)](https://github.com/DevLunaX)
-[![Email](https://img. shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@ejemplo. com)
-[![LinkedIn](https://img. shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tu-perfil/)
+[![GitHub](https://img.shields.io/badge/GitHub-DevLunaX-181717?style=for-the-badge&logo=github)](https://github.com/DevLunaX)
+[![Email](https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@ejemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tu-perfil/)
 
 </div>
 
@@ -415,7 +415,7 @@ fun MarketCard(
 
 **⭐ Si este proyecto te fue útil, no olvides darle una estrella ⭐**
 
-*Hecho con ❤️ para los amantes de la gastronomía local*
+*Hecho con ❤️ para la comunidad local*
 
 *Última actualización: Diciembre 2025*
 
