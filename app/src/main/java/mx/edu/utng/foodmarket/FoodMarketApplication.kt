@@ -1,4 +1,4 @@
-package mx.edu.utng.foodmarket.di
+package mx.edu.utng.foodmarket
 
 import android.app.Application
 import dagger.hilt.android.HiltAndroidApp
